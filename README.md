@@ -5,4 +5,7 @@ This repository consists of a python file that extracts a cover letter by using 
 
 This project can be extended by using the job description pdf file to get more specific requirements on the coverletter. In future I will be working on converting this file using streamlit app.
 
-Thanks.
+References:
+https://towardsdatascience.com/creating-a-cover-letter-generator-using-python-and-gpt-3-297a6b2a3886
+
+
